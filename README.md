@@ -1,6 +1,12 @@
 ## Thanks for visiting! 
 
-### Quick Links: 
+### 😄 Who I am 
+
+My name is Kenneth Rosas. I am a detailed oriented and incredibly curious developer. My dream is being part of a team that creates the "next big thing." 
+
+Having grew up in the days of 56K modems and seeing how much the internet bloomed, I have always been in awe about the technologies behind the things I have used. How did we go from something that tied up our phone lines to gigabit internet speeds? How did we fuse our 20 GB mp3 player, calculator, video player into the phones we use now? Terabytes have become the norm on desktop PCs yet the physical attributes of storage solution have both become smaller AND faster. 
+
+### Network with me via: 
 - LinkedIn: https://www.LinkedIn.com/in/KennethRosas
 - Twitter:  https://wwww.Twitter.com/KCR_Tech
 
