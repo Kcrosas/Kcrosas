@@ -12,6 +12,8 @@ With nearly a decade in the healthcare industry and an academic background fine 
 - LinkedIn: https://www.LinkedIn.com/in/KennethRosas
 - Twitter:  https://wwww.Twitter.com/KCR_Tech
 
+### :atom: Please feel free to check out my pinned repos below 
+
 <!--
 **Kcrosas/Kcrosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
