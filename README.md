@@ -1,8 +1,8 @@
 ## Thanks for visiting! 
 
 ### Quick Links: 
-1. LinkedIn: https://www.LinkedIn.com/in/KennethRosas
-2. Twitter:  https://wwww.Twitter.com/KCR_Tech
+- LinkedIn: https://www.LinkedIn.com/in/KennethRosas
+- Twitter:  https://wwww.Twitter.com/KCR_Tech
 
 <!--
 **Kcrosas/Kcrosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
