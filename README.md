@@ -1,6 +1,6 @@
-### Thanks for visiting! 
+## Thanks for visiting! 
 
-## Quick Links: 
+### Quick Links: 
 1. LinkedIn: https://www.LinkedIn.com/in/KennethRosas
 2. Twitter:  https://wwww.Twitter.com/KCR_Tech
 
