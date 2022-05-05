@@ -1,6 +1,6 @@
-## :hugs:	Thanks for visiting! 
+## :atom:	Thanks for visiting! 
 
-### 😄 Who I am 
+### :atom: Who I am 
 
 My name is Kenneth Rosas. I am a detailed oriented and incredibly curious developer. My dream is being part of a team that creates the "next big thing." 
 
