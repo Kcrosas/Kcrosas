@@ -10,7 +10,7 @@ With nearly a decade in the healthcare industry and an academic background fine 
 
 ### :atom: Where you can find me
 - LinkedIn: https://www.LinkedIn.com/in/KennethRosas
-- Twitter:  https://wwww.Twitter.com/KCR_Tech
+- Twitter:  https://www.Twitter.com/KCR_Tech
 
 ### :atom: Please feel free to check out my pinned repos below 
 
