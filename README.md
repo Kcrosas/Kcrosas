@@ -1,4 +1,4 @@
-## Thanks for visiting! 
+## :hugs:	Thanks for visiting! 
 
 ### 😄 Who I am 
 
