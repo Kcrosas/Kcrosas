@@ -8,7 +8,7 @@ Having grew up in the days of 56K modems and seeing how much the internet bloome
 
 With nearly a decade in the healthcare industry and an academic background fine tuned for development, I am looking to be part of the bridge between technology and people. 
 
-### Where you can find me
+### :atom: Where you can find me
 - LinkedIn: https://www.LinkedIn.com/in/KennethRosas
 - Twitter:  https://wwww.Twitter.com/KCR_Tech
 
