@@ -6,7 +6,7 @@ My name is Kenneth Rosas. I am a detailed oriented and incredibly curious develo
 
 Having grew up in the days of 56K modems and seeing how much the internet bloomed, I have always been in awe about the technologies behind the things I have used. How did we go from something that tied up our phone lines to gigabit internet speeds? How did we fuse our 20 GB mp3 player, calculator, video player into the phones we use now? Terabytes have become the norm on desktop PCs yet the physical attributes of storage solution have both become smaller AND faster. 
 
-With nearly a decade in the healthcare industry and an academic background fine tuned for development, I am looking to be part of the bridge between technology and people. 
+With over a decade in the healthcare industry and an academic background fine tuned for development, I am looking to be part of the bridge between technology and people. 
 
 ### :atom: Where you can find me
 - LinkedIn: https://www.LinkedIn.com/in/KennethRosas
