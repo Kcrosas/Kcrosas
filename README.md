@@ -12,7 +12,7 @@ Having witnessed the remarkable evolution of technology from the era of 56K mode
 
 These experiences have fueled my perpetual fascination with technology and motivated me to delve deeper into the realms of development.
 
-## :atom: Technologies
+## Technologies
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/d1b0980d-98c9-4a01-9a34-e1249dd73fde)
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/35b34f8e-99df-42fd-ba3c-5e37c1b355dd)
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/06613a81-86fa-4304-9549-8340a09bf562)
@@ -27,10 +27,10 @@ These experiences have fueled my perpetual fascination with technology and motiv
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/7b61ead8-c712-4676-87b3-fc151f19ba94)
 
 
-## :atom: Where you can find me
+## Where you can find me
 - [My Portfolio](https://www.KRosas.com)
 - [LinkedIn](https://www.LinkedIn.com/in/KennethRosas)
 - [Twitter](https://www.Twitter.com/KCR_Tech)
 
-## :atom: Please feel free to check out my pinned repos below 
+## Please feel free to check out my pinned repos below 
 
