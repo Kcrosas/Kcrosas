@@ -13,10 +13,19 @@ Having witnessed the remarkable evolution of technology from the era of 56K mode
 These experiences have fueled my perpetual fascination with technology and motivated me to delve deeper into the realms of development.
 
 ## :atom: Technologies
-<p align="center" width="100%">
-![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/6c6f3972-6589-4b33-b926-5fe7bf6c5894)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/d1b0980d-98c9-4a01-9a34-e1249dd73fde)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/35b34f8e-99df-42fd-ba3c-5e37c1b355dd)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/06613a81-86fa-4304-9549-8340a09bf562)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/1abb087d-4ce6-4f1e-bf33-793e7a26ff2a)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/adb3f8dd-6d99-41b9-be35-063011d95dbc)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/fb6c3774-525b-4f86-91be-0af14481a928)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/22416d6f-fad9-4d19-9ef4-3a832027edf1)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/2959b739-1000-4603-8531-58d4d6ade3eb)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/de91f108-dc52-405b-9831-833c5a6b56bf)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/ee2bacda-8638-4ba5-9caa-c9e4b649ed92)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/619d8d7d-faf2-4f4d-94e0-64dceb4c6221)
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/7b61ead8-c712-4676-87b3-fc151f19ba94)
 
-</p>
 
 ## :atom: Where you can find me
 - [My Portfolio](https://www.KRosas.com)
