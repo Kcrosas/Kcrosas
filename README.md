@@ -2,9 +2,11 @@
 
 ### :atom: Who I am 
 
-My name is Kenneth Rosas. I am a detailed oriented and incredibly curious developer, an avid hiker, and an aquarium hobbyist. My dream is being part of a team that creates the "next big thing," qualifying for the ADK 46ers, and buying a home to express my interest in aquascaping. 
+I am Kenneth Rosas, a detail-oriented and inquisitive developer, an enthusiastic hiker, and an avid aquarium hobbyist. My aspirations revolve around being part of a groundbreaking team that pioneers the "next big thing," accomplishing the ADK 46ers challenge, and acquiring a home to showcase my passion for aquascaping.
 
-Having grew up in the days of 56K modems and seeing how much the internet bloomed, I have always been in awe about the technologies behind the things I have used. How did we go from something that tied up our phone lines to gigabit internet speeds? How did we fuse our 20 GB mp3 player, calculator, video player into the phones we use now? Terabytes have become the norm on desktop PCs yet the physical attributes of storage solution have both become smaller AND faster. 
+Having witnessed the remarkable evolution of technology from the era of 56K modems, I have continuously been captivated by the intricate workings behind the tools and innovations I have utilized. The transition from phone line-restricted connections to lightning-fast gigabit speeds is an astonishing feat. The amalgamation of various functionalities, such as a 20 GB mp3 player, calculator, and video player, into the compact smartphones we rely on today is truly remarkable. The norm of terabytes in desktop PCs highlights the remarkable advancements in storage solutions, which have not only become smaller but also faster.
+
+These experiences have fueled my perpetual fascination with technology and motivated me to delve deeper into the realms of development.
 
 ### :atom: Where you can find me
 - [My Portfolio](https://www.KRosas.com)
