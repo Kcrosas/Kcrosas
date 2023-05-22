@@ -4,13 +4,19 @@
 </p>
 
 <p align="center">
-Hey there! I am Kenneth Rosas, a detail-oriented and inquisitive developer, an enthusiastic hiker, and an avid aquarium hobbyist. 
+Kenneth Rosas - a detail-oriented and inquisitive developer, an enthusiastic hiker, and an avid aquarium hobbyist
+</p>
 
+<p align="center" width="100%">
+    <img width="35%" src="https://github.com/Kcrosas/Kcrosas/assets/90270082/b5639314-a1b3-4ac7-8b78-9eda200166a9">
 </p>
 
 Having witnessed the remarkable evolution of technology from the era of 56K modems, I have continuously been captivated by the intricate workings behind the tools and innovations I have utilized. The transition from phone line-restricted connections to lightning-fast gigabit speeds is an astonishing feat. The amalgamation of various functionalities, such as a 20 GB mp3 player, calculator, and video player, into the compact smartphones we rely on today is truly remarkable. The norm of terabytes in desktop PCs highlights the remarkable advancements in storage solutions, which have not only become smaller but also faster.
 
 These experiences have fueled my perpetual fascination with technology and motivated me to delve deeper into the realms of development.
+
+
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/8a6e1d1d-3b13-4f78-8749-e1d36709726e)
 
 ## Technologies
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/d1b0980d-98c9-4a01-9a34-e1249dd73fde)
@@ -26,11 +32,13 @@ These experiences have fueled my perpetual fascination with technology and motiv
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/619d8d7d-faf2-4f4d-94e0-64dceb4c6221)
 ![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/7b61ead8-c712-4676-87b3-fc151f19ba94)
 
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/8a6e1d1d-3b13-4f78-8749-e1d36709726e)
 
 ## Where you can find me
 - [My Portfolio](https://www.KRosas.com)
 - [LinkedIn](https://www.LinkedIn.com/in/KennethRosas)
 - [Twitter](https://www.Twitter.com/KCR_Tech)
 
+![image](https://github.com/Kcrosas/Kcrosas/assets/90270082/8a6e1d1d-3b13-4f78-8749-e1d36709726e)
 ## Please feel free to check out my pinned repos below 
 
